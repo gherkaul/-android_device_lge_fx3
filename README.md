@@ -36,5 +36,6 @@ rename kernel1 to 'kernel'
 
 To pull blobs off of phone, Turn on USB Debugging, connect phone via usb and connect as (MTP)
 $ chmod 755 extract-files.sh
+$ chmod 755 setup-makefiles.sh
 $ cd ./device/lge/fx3
 $ extract-files.sh
