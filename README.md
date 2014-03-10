@@ -20,19 +20,9 @@ Contents will output into the $out directory:
 
 2 kernels included:
 
-kernel is from robaho
-Source:
-http://androidforums.com/virgin-mobile-optimus-f3-all-things-root/832728-overclock-kernel-v6.html
-
-kernel1 is from jmztaylor
+kernel is from jmztaylor
 Source:
 https://github.com/jmztaylor/android_device_lg_ls720
-
-kernel is an overclock kernel.
-kernel1 is default kernel.
-
-To switch to default kernel, rename kernel to 'kernel.bak'
-rename kernel1 to 'kernel'
 
 To pull blobs off of phone, Turn on USB Debugging, connect phone via usb and connect as (MTP)
 
