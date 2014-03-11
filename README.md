@@ -7,6 +7,7 @@ Optimus F3 Recovery
 Place in /device/lge/fx3 directory
 
 $ . build/envsetup.sh
+
 $ breakfast fx3
 
 
