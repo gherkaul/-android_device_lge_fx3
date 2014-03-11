@@ -18,8 +18,6 @@ Contents will output into the $out directory:
 &&
 /home/.../.../out/target/product/fx3/ramdisk.img
 
-2 kernels included:
-
 kernel is from jmztaylor
 Source:
 https://github.com/jmztaylor/android_device_lg_ls720
