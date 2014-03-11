@@ -33,10 +33,10 @@ https://github.com/jmztaylor/android_device_lg_ls720
 
 To pull blobs off of phone, Turn on USB Debugging, connect phone via usb and connect as (MTP)
 
+$ cd ./device/lge/fx3
+
 $ chmod 755 extract-files.sh
 
 $ chmod 755 setup-makefiles.sh
-
-$ cd ./device/lge/fx3
 
 $ extract-files.sh
