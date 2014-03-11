@@ -42,10 +42,10 @@ $ chmod 755 setup-makefiles.sh
 $ extract-files.sh
 
 
-#To flash recovery.img copy to /sdcard or /storage/externel_SD
-#I would recomend using adb to push the files. Much much quicker that way.
+To flash recovery.img copy to /sdcard or /storage/externel_SD
+I would recomend using adb to push the files. Much much quicker that way.
 
-#Using adb shell:
+Using adb shell:
 $ adb shell
 
 $ su
