@@ -15,12 +15,17 @@ if you're building recovery only:
 $ make recoveryimage
 
 Contents will output into the $out directory:
+
 /home/.../.../out/target/product/fx3/recovery.img
+
 &&
+
 /home/.../.../out/target/product/fx3/ramdisk.img
 
 kernel is from jmztaylor
+
 Source:
+
 https://github.com/jmztaylor/android_device_lg_ls720
 
 To pull blobs off of phone, Turn on USB Debugging, connect phone via usb and connect as (MTP)
