@@ -12,6 +12,7 @@ $ breakfast fx3
 
 
 if you're building recovery only:
+
 $ make recoveryimage
 
 Contents will output into the $out directory:
