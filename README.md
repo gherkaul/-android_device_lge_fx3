@@ -6,11 +6,11 @@ LS720 and VM720 device tree
 Optimus F3 Recovery
 
 
-Place in folder that you did repo sync
+Place in /device/lge/fx3
 
 assuming you did repo sync in ~/android
 
-~/android/device/lge/fx3 directory
+~/android/device/lge/fx3
 
 $ . build/envsetup.sh
 
